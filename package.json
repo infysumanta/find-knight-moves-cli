@@ -1,0 +1,23 @@
+{
+  "name": "find-knight-moves-cli",
+  "version": "0.0.1",
+  "description": "Node Cli tools to find the possible moves for knight in chessboard",
+  "main": "index.js",
+  "bin": {
+    "findknightmoves": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infysumanta/find-knight-moves-cli.git"
+  },
+  "keywords": [],
+  "author": "Sumanta Kabiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infysumanta/find-knight-moves-cli/issues"
+  },
+  "homepage": "https://github.com/infysumanta/find-knight-moves-cli#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
