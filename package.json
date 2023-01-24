@@ -1,5 +1,5 @@
 {
-  "name": "find-knight-moves",
+  "name": "findknightmoves",
   "version": "0.0.1",
   "description": "Node Cli tools to find the possible moves for knight in chessboard",
   "main": "index.js",
