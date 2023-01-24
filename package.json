@@ -6,6 +6,9 @@
   "bin": {
     "findknightmoves": "index.js"
   },
+  "scripts": {
+    "test": "echo tested"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/infysumanta/find-knight-moves-cli.git"
