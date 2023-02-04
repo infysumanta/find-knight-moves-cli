@@ -1,6 +1,6 @@
 {
   "name": "findknightmoves",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Node Cli tools to find the possible moves for knight in chessboard",
   "main": "index.js",
   "bin": {
